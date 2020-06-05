@@ -18,9 +18,9 @@ class Chair < Furniture
     "method"
   end
 
-  def soft
-    "class"
-  end
+  #def soft
+  #  "class"
+  #end
 
 end
 
