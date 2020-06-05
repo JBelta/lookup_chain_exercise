@@ -2,7 +2,7 @@ require "./wood_things"
 require './furniture_module'
 
 class Furniture < WoodThings
-  include FurnitureModule
+  #include FurnitureModule
 
   #def soft
   #  "superclass"
