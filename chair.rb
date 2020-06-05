@@ -2,7 +2,7 @@ require "./chair_module"
 require "./furniture"
 
 class Chair < Furniture
-  include ChairModule
+  #include ChairModule
 
   def initialize
     @motto = "I'm a chair!"
